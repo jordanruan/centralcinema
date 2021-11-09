@@ -31,4 +31,4 @@ Desafio de HTML & CSS proposto pela <strong>Soul Code</strong>, EDTECH brasileir
 
 ---
 
-Copyright - 2021 Jordan Ruan | DevChallenge
+Copyright - 2021 Jordan Ruan | SoulCodeChallenge
