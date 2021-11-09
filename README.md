@@ -1,7 +1,7 @@
 <h1 align="center">Central Cinema 🎥</h1>
 <h3 align="center">Landing page de serviços de streaming voltado para cinema</h3>
 
-<p align="center"><a href="jordanruan.github.io/centralcinema/" >Finalizado 🚀</a><p>
+<p align="center"><a href="https://jordanruan.github.io/centralcinema/" >Finalizado 🚀</a><p>
 
 ![banner](https://github.com/jordanruan/centralcinema/blob/main/assets/mockup-desktop.png?raw=true)
 
