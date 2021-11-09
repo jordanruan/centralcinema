@@ -1,0 +1,118 @@
+/* Menu dropdown */
+.dropdown-menu[data-bs-popper]{
+    left: auto;
+    background-color: #202931;
+}
+
+.dropdown-item:hover{
+    background-color: #000 !important;
+}
+
+.navbar-toggler{
+    background-color: #fff;
+}
+
+
+/* Página Cadastro */
+.imgFundoCadastro{
+    border: 1px solid black;
+    background-image: url("../assets/fundo_pipoca.gif");
+    background-color: #212529;
+    background-size: contain;
+    opacity: 0.9;
+
+}
+
+.marginCadastro{
+    /* border: 1px solid black; */
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.borda{
+    border: 1px solid gray;
+    border-radius: 25px;
+    padding: 30px;
+    background: white;
+}
+
+.botao{
+    width: 150px;
+    margin-left: 6px;
+}
+
+/* Página Index */
+body {
+    font-family: "Poppins", "sans-serif";
+}
+
+
+.navzao {
+    background-color: #202931;
+}
+
+.navbar-toggler{
+    background-color: #fff;
+}
+
+
+
+/* Footer */
+
+.footzao{
+    background-color: #f3f4f5;
+}
+
+#container-social {
+    border-bottom: 2px solid #ff1515;
+    padding-bottom: 20px;
+}
+
+#img-title-social {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+
+}
+
+.social-body {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+
+}
+
+#img-social {
+    width: 48px;
+}
+
+#title-social,
+#address-social {
+    text-decoration: none;
+    color: #141414;
+}
+
+.title-nav {
+    display: flex;
+    margin-left: 30px;
+    padding: 0;
+}
+
+#container-nav {
+    margin-top: 20px;
+}
+
+.nav-list{
+    padding-left: 0;
+    margin-top: 20px;
+}
+
+.nav-list li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.title-nav {
+    text-decoration: none;
+    color: #141414;
+}

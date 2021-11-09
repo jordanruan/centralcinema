@@ -1,0 +1,145 @@
+:root {
+    --cor-background: #202931 --cor-footer: #f3f4f5
+}
+
+body {
+    font-family: "Poppins", "sans-serif";
+}
+
+.navzao {
+    background-color: #202931;
+}
+
+
+/* Menu dropdown */
+
+.dropdown-menu[data-bs-popper] {
+    left: auto;
+    background-color: #202931;
+}
+
+.dropdown-item:hover {
+    background-color: #000 !important;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+#imgBanner {
+    width: 100%;
+    height: 25rem;
+}
+
+.card-img-top {
+    width: 20px;
+    height: 20px;
+}
+
+#mensagens {
+    background-color: #202931;
+}
+
+
+/* Footer */
+
+.footzao {
+    background-color: #f3f4f5;
+}
+
+#container-social {
+    border-bottom: 2px solid #ff1515;
+    padding-bottom: 20px;
+}
+
+#img-title-social {
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.social-body {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+#img-social {
+    width: 48px;
+}
+
+#title-social,
+#address-social {
+    text-decoration: none;
+    color: #141414;
+}
+
+.title-nav {
+    display: flex;
+    margin-left: 30px;
+    padding: 0;
+}
+
+#container-nav {
+    margin-top: 20px;
+}
+
+.nav-list {
+    padding-left: 0;
+    margin-top: 20px;
+}
+
+.nav-list li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.title-nav {
+    text-decoration: none;
+    color: #141414;
+}
+
+
+
+
+
+#imgBanner{
+    width: 100%;
+    height: 25rem;
+    display: flex;
+}
+
+
+
+
+
+.card-img-top{
+    width: 20px;
+    height: 20px;
+    
+}
+#mensagens{
+    background-color:#202931;
+    align-items: center;
+    
+    
+}
+.card-text{
+    font-size: smaller;
+    
+   
+}
+.quote{
+    font-size: small;
+    color: #fff
+
+}
+.card-text, .card-title{
+    color: #fff;
+}
+@media (max-width:768px) {
+    #imgBanner{
+        width:100% ;
+        height: auto;
+    }
+}
