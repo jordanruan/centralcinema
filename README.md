@@ -3,7 +3,7 @@
 
 <p align="center"><a href="jordanruan.github.io/centralcinema/" >Finalizado 🚀</a><p>
 
-![banner](https://github.com/jordanruan/bolhadev/blob/master/assets/mockup%20desktop.png?raw=true)
+![banner](https://github.com/jordanruan/centralcinema/blob/main/assets/mockup-desktop.png?raw=true)
 
 ---
 
