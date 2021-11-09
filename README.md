@@ -1,11 +1,11 @@
 <h1 align="center">Central Cinema 🎥</h1>
-<h3 align="center">Landing page de cinema..</h3>
+<h3 align="center">Landing page de serviço de serviço de streaming de cinema.</h3>
 
 ---
 
 ## SoulCode Challenge 💡
 
-Desafio de HTML, CSS, BOOSTRAP , JAVASCRIPT , JQUERY proposto pela <strong>Soul Code</strong>, EDTECH brasileira com <i>inclusão social.</i>
+Desafio de HTML, CSS, BOOTSTRAP , JAVASCRIPT , JQUERY proposto pela <strong>Soul Code</strong>, EDTECH brasileira com <i>inclusão social.</i>
 
 - <a href="https://soulcodeacademy.org/">SoulCode</a>
 
@@ -13,7 +13,7 @@ Desafio de HTML, CSS, BOOSTRAP , JAVASCRIPT , JQUERY proposto pela <strong>Soul 
 
 - HTML5
 - CSS
-- BOOSTRAP
+- BOOTSTRAP
 - JAVASCRIPT
 - JQUERY
 
@@ -22,10 +22,8 @@ Desafio de HTML, CSS, BOOSTRAP , JAVASCRIPT , JQUERY proposto pela <strong>Soul 
 ## Authors 👨‍💻
 
 - GitHub: [@jordanruan](https://github.com/jordanruan)
-- GitHub: [@Danyllo](https://github.com/piresdanyllo)
-- GitHub: [@Fabio](https://github.com/fabiomdg1)
-- GitHub: [@Eduardo](https://github.com/eduoliveirarj)
+
 
 ---
 
-Copyright - 2021 Jordan, Danyllo, Fabio, Eduardo, | SoulCode Challenge
+Copyright - 2021 Jordan | SoulCode Challenge
